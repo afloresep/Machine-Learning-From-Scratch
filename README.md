@@ -10,7 +10,7 @@ So that is exactly what we are going to do.
 
 ## Linear Regression 
 
-See full walk through [here](https://github.com/afloresep/Machine-Learning-From-Scratch/walk_through/linear_regression.md)
+See full walk through [here](https://github.com/afloresep/Machine-Learning-From-Scratch/blob/master/walk_through/linear_regression.md)
 
 See code implementation [here](./scratchml/supervised_learning/regression.py)
 
