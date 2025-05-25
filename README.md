@@ -10,7 +10,7 @@ So that is exactly what we are going to do.
 
 ## Linear Regression 
 
-See full walk through [here](https://github.com/afloresep/Machine-Learning-From-Scratch/blob/master/walk_through/linear_regression.md)
+See full walkthrough [here](https://github.com/afloresep/Machine-Learning-From-Scratch/blob/master/walk_through/linear_regression.md)
 
 See code implementation [here](./scratchml/supervised_learning/regression.py)
 
@@ -18,3 +18,7 @@ See code implementation [here](./scratchml/supervised_learning/regression.py)
 ![Linear Regression Training](images/linear_regressoion_evolution.gif)
 
 *Slope change over time using Gradient Descent*
+
+### Ridge Regression 
+
+
