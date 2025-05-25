@@ -21,4 +21,10 @@ See code implementation [here](./scratchml/supervised_learning/regression.py)
 
 ### Ridge Regression 
 
+See full walkthrough [here](https://github.com/afloresep/Machine-Learning-From-Scratch/blob/master/walk_through/ridge_regression.md)
 
+See code implementation [here](./scratchml/supervised_learning/regression.py)
+
+![alt text](/images/ridge_slope.png)
+
+*Slope change over different lambdas* 
