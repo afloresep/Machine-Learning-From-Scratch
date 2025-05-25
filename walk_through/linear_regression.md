@@ -45,7 +45,7 @@ $$
 For example, the number of bedrooms is probably more important to the final price than the number of bathrooms. These weights will tweak the features just enought to get our prediction as close as possible. 
 
 
-Normally one would write the prediction, often written as $\hat y$ or  ($h_\theta(x)$) as :
+Normally one would write the prediction, often written as $\hat y$ or  $h_\theta(x)$ as :
 
 
 $$
